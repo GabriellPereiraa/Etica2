@@ -76,7 +76,7 @@
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
-                                    <a href="Topico04.6.php" class="sidebar-sub">
+                                    <a href="" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>4.6 - Outras experiências estrangeiras</span>
                                     </a>
