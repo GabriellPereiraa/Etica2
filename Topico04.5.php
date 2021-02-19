@@ -85,14 +85,14 @@ include('layout/header.php');
             <section id="Integridade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingTwo">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     <h3>Integridade</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse2" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Os ocupantes de cargos públicos não deverão colocarse em situação de obrigação financeira ou de outra ordem, para com indivíduos ou organizações externas, que possa influenciá-los no cumprimento de seus deveres oficiais.
@@ -107,14 +107,14 @@ include('layout/header.php');
             <section id="Objetividade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingThree">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse3">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     <h3>Objetividade</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse3" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     No desempenho das atividades públicas, inclusive nomeações, concessão de contratos ou recomendação de pessoas para recompensas e benefícios, os ocupantes de cargos públicos deverão decidir apenas com base no mérito.
@@ -129,14 +129,14 @@ include('layout/header.php');
             <section id="Accountability">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingFour">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                     <h3>Accountability (Prestação de contas)</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse3" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse4" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Os ocupantes de cargos públicos são responsáveis perante o público por suas decisões ou ações e devem submeter-se a qualquer fiscalização apropriada ao seu cargo.
@@ -151,14 +151,14 @@ include('layout/header.php');
             <section id="Transparência">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingFive">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
                                     <h3>Transparência</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse4" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse5" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Os ocupantes de cargos públicos devem conferir às suas decisões, às suas ações a maior transparência possível. Eles devem justificar suas decisões e restringir o acesso à informação somente se o interesse maior do público assim o exigir.
@@ -173,14 +173,14 @@ include('layout/header.php');
             <section id="Honestidade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingSix">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
                                     <h3>Honestidade</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse5" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse6" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Os ocupantes de cargos públicos têm o dever de: declarar quaisquer interesses particulares que tenham relação com seus deveres públicos; e de tomar medidas para resolver quaisquer conflitos que possam surgir, de forma a proteger o interesse público.
@@ -197,12 +197,12 @@ include('layout/header.php');
                     <div class="card">
                         <div class="card-header" id="headingOne">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
                                     <h3>Liderança</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse6" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse7" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Os ocupantes de cargos públicos devem promover e apoiar esses princípios, através da liderança e do exemplo.
