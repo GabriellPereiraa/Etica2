@@ -19,7 +19,7 @@ include('layout/header.php');
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
             <div class="page-title">
-                <h2 class="font-bold">
+                <h2 class="font-bold" style="color: #008445;">
                     Apresentação
                 </h2>
                     <p class="Texto">
@@ -28,18 +28,19 @@ include('layout/header.php');
 
                 <br>
                 <hr>
-                <h2 class="font-bold">
+                <h2 class="font-bold" style="color: #008445;">
                     Objetivo
                 </h2>
                     <p class="Texto">
-                        <i class="fas fa-bullseye"></i> Apresentar as questões éticas ao servidor público;
+                        <i class="fas fa-bullseye" style="color: #FC6B30;"></i> Apresentar as questões éticas ao servidor público;
                     </p>
                     <p class="Texto">
-                        <i class="fas fa-bullseye"></i> Discutir a ética profissional no serviço público.
+                        <i class="fas fa-bullseye" style="color: #FC6B30;"></i> Discutir a ética profissional no serviço público.
                     </p>
 
             </div> <!-- CLASS PAGE TITLE FIM -->
             
+            <br><br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
                         <a href="Topico01.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
