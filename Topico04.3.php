@@ -53,10 +53,12 @@ include('layout/header.php');
             </p>
             </div> <!-- CLASS PAGE TITLE FIM -->
             
+            <br>
+            <br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
-                        <a href="Topico04.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
-                        <a href="Topico04.3.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
+                        <a href="Topico04.2.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
+                        <a href="Topico04.4.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
                 </div>
             </div>
 

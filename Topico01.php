@@ -53,6 +53,7 @@ include('layout/header.php');
             </p>
             </div>
             <br>
+            <br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
                     <a href="Apresentacao.php" class="btn btn-outline-success btn-sm">Página Anterior</a>

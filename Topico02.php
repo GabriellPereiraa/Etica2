@@ -70,12 +70,10 @@ include('layout/header.php');
             <p class="Texto">
             Diante das exigências da sociedade para que a administração pública funcione de forma ligada aos princípios éticos, governos em diversas partes do mundo têm estruturado marcos normativos, envolvendo diferentes setores da sociedade e estabelecem programas que visam à obtenção dos fins desejados. Com isso, poderíamos dizer que uma administração pública, regida por princípios éticos, estaria configurada, desenvolvida e unida por uma estrutura de princípios, ideias e práticas que conduzem e iluminam todos os seus processos e ações.
             </p>
-
-            
-
-            
             </div> <!-- CLASS PAGE TITLE FIM -->
             
+            <br>
+            <br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
                         <a href="Topico01.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
