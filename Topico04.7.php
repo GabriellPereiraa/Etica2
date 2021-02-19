@@ -47,7 +47,7 @@ include('layout/header.php');
             <br><br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
-                    <a href="Topico04.6.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
+                    <a href="Topico04.6.1.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
                     <a href="Topico04.7.2.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
                 </div>
             </div>
