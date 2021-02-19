@@ -78,14 +78,14 @@ include('layout/header.php');
             <section id="Impessoalidade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingTwo">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     <h3>Impessoalidade</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                             <div class="card-body">
                             <p class="Texto">
                                 Aqui é aplicado como sinônimo de igualdade: todos devem ser tratados de forma igualitária e respeitando o que a lei prevê. Dessa forma, o administrador público deve objetivar o interesse público, sendo, em consequência, inadmissível tratamento privilegiado aos amigos, não devendo imperar na Administração Pública a vigência do dito popular de que aos inimigos ofertaremos a lei e aos amigos as benesses da lei, de modo que a impessoalidade estabelece que a Administração Pública não deve conter a marca pessoal do administrador, ou seja, os atos públicos não são praticados pelo servidor, e sim pela Administração a que ele pertence.
@@ -100,14 +100,14 @@ include('layout/header.php');
             <section id="Moralidade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingThree">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     <h3>Moralidade</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse3" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Respeito ao padrão moral para não comprometer os bons costumes da sociedade. A doutrina enfatiza que a noção de moral administrativa não está vinculada às convicções íntimas do agente público, mas sim à noção de atuação adequada e à ética existente no grupo social.
@@ -122,14 +122,14 @@ include('layout/header.php');
             <section id="Publicidade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingFour">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                     <h3>Publicidade</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse4" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Refere-se à transparência de todo ato público, salvo os casos previstos em lei. O princípio da publicidade vem a concretizar os postulados básicos do princípio republicano, a saber, a possibilidade de fiscalização das atividades administrativas pelo povo, haja vista que todo poder emana do povo, sendo toda a res (coisa) pública. Esse princípio da publicidade tem como intento assegurar transparência na gestão pública, pois administrador público não é dono do patrimônio de que ele cuida, sendo mero procurador da gestão dos bens da coletividade, devendo possibilitar aos administrados o conhecimento pleno de suas condutas administrativas.
@@ -144,14 +144,14 @@ include('layout/header.php');
             <section id="Eficiência">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingFive">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
                                     <h3>Eficiência</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse5" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Ser o mais eficiente possível na utilização dos meios que são postos à sua disposição para a execução do seu mister. De acordo com as regras desse princípio, não basta ao administrador público agir somente de acordo com as regras da legalidade e da moralidade. É necessário que busque o que for melhor, entre as diversas opções que se lhe oferecem, que represente melhor qualidade ou condições para melhor atender às exigências do serviço público, do bem comum. De fato, a eficiência pressupõe a realização das atribuições com máxima presteza (rapidez e prontidão), com qualidade perfeita e de forma proficiente. A eficiência deve ser compreendida tanto qualitativa como quantitativamente.
