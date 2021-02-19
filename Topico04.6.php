@@ -30,14 +30,14 @@ include('layout/header.php');
             <section id="EducacaoEtica">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingZero">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse0" aria-expanded="false" aria-controls="collapse0">
                                     <h3>Educação ética</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse0" class="collapse" aria-labelledby="headingZero" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     A permanente educação ética, conforme o documento, é necessária para a internalização de valores, como o respeito pelos outros, a proteção de direitos individuais etc. 
@@ -74,14 +74,14 @@ include('layout/header.php');
             <section id="Valorizar">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingTwo">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     <h3>Valorizar os cidadãos como seres humanos</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Os cidadãos não são meros clientes ou consumidores em um mercado.
@@ -96,14 +96,14 @@ include('layout/header.php');
             <section id="Liderança">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header" id="headingThree">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     <h3>Liderança</h3>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapse6" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div id="collapse3" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                             <div class="card-body">
                                 <p class="Texto">
                                     Os ocupantes de cargos públicos devem promover e apoiar estes princípios, através da liderança e do exemplo.
