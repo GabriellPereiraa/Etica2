@@ -48,12 +48,6 @@
                                 <li class="sidebar-item">
                                     <a href="Topico04.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
-                                        <span>4.0 - Modelos de ética</span>
-                                    </a>
-                                </li>
-                                <li class="sidebar-item">
-                                    <a href="Topico04.php" class="sidebar-sub">
-                                        <i data-feather="home" width="20"></i>
                                         <span>4.1 - Modelos de ética multinacionais: A OCDE</span>
                                     </a>
                                 </li>
