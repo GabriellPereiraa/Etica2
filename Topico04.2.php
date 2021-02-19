@@ -59,6 +59,7 @@ include('layout/header.php');
                     </p>
                 </li>   
             </ul>
+            <br>
             <p class="Texto">
                 Afirmamos, portanto, que “uma vez que as relações de governos se formalizam por meio de acordos e convenções, e são os servidores públicos os agentes desse processo, a necessidade de assegurar um padrão de conduta ético para o servidor torna-se condição para o desenvolvimento”.
             </p>
