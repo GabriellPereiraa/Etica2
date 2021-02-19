@@ -53,8 +53,7 @@ include('layout/header.php');
             </p>
             </div> <!-- CLASS PAGE TITLE FIM -->
             
-            <br>
-            <br>
+            <br><br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
                         <a href="Topico04.2.php" class="btn btn-outline-success btn-sm">Página Anterior</a>

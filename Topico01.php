@@ -52,8 +52,8 @@ include('layout/header.php');
             Uma Administração que se movimente por essa perspectiva, precisa ser uma administração composta por pessoas que estejam convencidas de que a qualidade dos seus serviços ofertados tem muito a ver com um trabalho bem executado e que é importante ir ao encontro dos legítimos interesses da população nos múltiplos e variados expedientes, interesses e necessidades. Nesse sentido, o servidor público tem como responsabilidade assumir um protagonismo, de se sentir responsável, e independentemente da função que ora ocupa, pela dinâmica administrativa, colocando à sua frente os interesses da coletividade.
             </p>
             </div>
-            <br>
-            <br>
+            
+            <br><br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
                     <a href="Apresentacao.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
