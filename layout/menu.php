@@ -52,43 +52,43 @@
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
-                                    <a href="Topico04.php" class="sidebar-sub">
+                                    <a href="Topico04.2.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>4.2 - Ferramentas estratégicas</span>
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
-                                    <a href="Topico04.php" class="sidebar-sub">
+                                    <a href="Topico04.3.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>4.3 - Ética nas Organizações</span>
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
-                                    <a href="Topico04.php" class="sidebar-sub">
+                                    <a href="Topico04.4.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>4.4 - Governança Corporativa</span>
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
-                                    <a href="Topico04.php" class="sidebar-sub">
+                                    <a href="Topico04.5.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>4.5 - Padrão britânico de conduta na vida pública</span>
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
-                                    <a href="Topico04.php" class="sidebar-sub">
+                                    <a href="Topico04.6.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>4.6 - Outras experiências estrangeiras</span>
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
-                                    <a href="Topico04.php" class="sidebar-sub">
+                                    <a href="Topico04.7.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>4.7 - Modelos éticos na América Latina</span>
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
-                                    <a href="Topico04.php" class="sidebar-sub">
+                                    <a href="Topico04.8.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>4.8 - Exemplos de códigos de ética</span>
                                     </a>
