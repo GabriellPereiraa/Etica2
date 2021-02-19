@@ -19,7 +19,7 @@ include('layout/header.php');
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
             <h2 class="font-bold Azul">
-                <i class="fas fa-folder"></i> 04.2 - Ferramentas estratégicas
+                <i class="fas fa-folder"></i> 04.3 - Ética nas Organizações
             </h2>
 
             <hr class="hr4">
