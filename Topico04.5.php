@@ -193,24 +193,24 @@ include('layout/header.php');
             <br>
 
             <section id="Liderança">
-            <div class="accordion" id="accordionExample">
-                <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <h2 class="mb-0">
-                            <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                                <h3>Liderança</h3>
-                            </button>
-                        </h2>
-                    </div>
-                    <div id="collapse6" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                        <div class="card-body">
-                            <p class="Texto">
-                                Os ocupantes de cargos públicos devem promover e apoiar esses princípios, através da liderança e do exemplo.
-                            </p>
+                <div class="accordion" id="accordionExample">
+                    <div class="card">
+                        <div class="card-header" id="headingOne">
+                            <h2 class="mb-0">
+                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                                    <h3>Liderança</h3>
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapse6" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                            <div class="card-body">
+                                <p class="Texto">
+                                    Os ocupantes de cargos públicos devem promover e apoiar esses princípios, através da liderança e do exemplo.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
             </section>
             <br>
 
