@@ -255,6 +255,11 @@ Texto negrito
 .Azul{
     color: #286ce6;
 }
+/* Cor azul padrao Estado */
+.AzulEstado{
+    color: #4885AE;
+}
+
 
 /* Borda HR grossa da cor azul */
 .hr4 {
@@ -263,8 +268,14 @@ Texto negrito
     margin-top: -6px;
   }
 
+/* Hr cor laranja */
 .hrLaranja{
     border-bottom: 1px solid hsl(22, 100%, 66%);
+}
+
+/* Hr cor azul Estado*/
+.hrAEstado{
+    border-bottom: 1px solid #4885AE
 }
 
 /* Linha vertical */
