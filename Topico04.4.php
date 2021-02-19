@@ -32,10 +32,10 @@ include('layout/header.php');
             </p>
             <ul class="fa-ul">
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-chevron-circle-right"></i> a sua organização: que considera essa matéria a partir de sua estrutura orgânica interna das entidades; ou 
+                    <span class="fa-li"></span><i class="fas fa-chevron-circle-right"  style="color:#FC6B30"></i> a sua organização: que considera essa matéria a partir de sua estrutura orgânica interna das entidades; ou 
                 </li>
                 <li>
-                    <span class="fa-li"></span><i class="fas fa-chevron-circle-right"></i> a partir de controles societários externos: que são refletidos basicamente no mercado de controle societário. 
+                    <span class="fa-li"></span><i class="fas fa-chevron-circle-right"  style="color:#FC6B30"></i> a partir de controles societários externos: que são refletidos basicamente no mercado de controle societário. 
                 </li>
             </ul>
 
