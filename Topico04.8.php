@@ -19,7 +19,7 @@ include('layout/header.php');
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
             <h2 class="font-bold Azul">
-                <i class="fas fa-folder"></i> 04.7 - Modelos éticos na América Latina
+                <i class="fas fa-folder"></i> 04.8 - Exemplos de códigos de ética
             </h2>
 
             <hr class="hr4">
