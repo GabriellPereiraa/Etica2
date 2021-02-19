@@ -24,26 +24,82 @@
                         <li class="sidebar-item">
                             <a href="Topico01.php" class="sidebar-link">
                                 <i data-feather="home" width="20"></i>
-                                <span>1.0 - Introdução à Ética</span>
+                                <span>1.0 - Ética e serviço público</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
                             <a href="Topico02.php" class="sidebar-link">
                                 <i data-feather="home" width="20"></i>
-                                <span>2.0 - Conceitos básicos</span>
+                                <span>2.0 - Alguns princípios</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
                             <a href="Topico03.php" class="sidebar-link">
                                 <i data-feather="home" width="20"></i>
-                                <span>3.0 - Concepções éticas</span>
+                                <span>3.0 - Antecedentes da ética no serviço público</span>
                             </a>
                         </li>
-                        <li class="sidebar-item">
-                            <a href="Topico04.php" class="sidebar-link">
+                        <li class="sidebar-item has-sub">
+                            <a href="" class='sidebar-link'>
                                 <i data-feather="home" width="20"></i>
-                                <span>4.0 - Visão Contemporânea</span>
+                                <span>4.0 - Modelos de ética</span>
                             </a>
+                            <ul class="submenu">
+                                <li class="sidebar-item">
+                                    <a href="Topico04.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>4.0 - Modelos de ética</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico04.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>4.1 - Modelos de ética multinacionais: A OCDE</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico04.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>4.2 - Ferramentas estratégicas</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico04.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>4.3 - Ética nas Organizações</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico04.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>4.4 - Governança Corporativa</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico04.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>4.5 - Padrão britânico de conduta na vida pública</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico04.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>4.6 - Outras experiências estrangeiras</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico04.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>4.7 - Modelos éticos na América Latina</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico04.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>4.8 - Exemplos de códigos de ética</span>
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="sidebar-item">
                             <a href="Referencias.php" class="sidebar-link">
