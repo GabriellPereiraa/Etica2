@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 04.2 - Ferramentas estratégicas
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 4.2 - Ferramentas estratégicas
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
 
             <p class="Texto">
                 Como ferramenta estratégica, o Conselho da OCDE aprovou seis medidas para a condução da ética no serviço público. São elas:

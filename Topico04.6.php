@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 04.6 - Outras experiências estrangeiras
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 4.6 - Outras experiências estrangeiras
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
             <p class="Texto">
                 Em maio de 1997, em documento preparado pela Secretaria para o 13º encontro do Grupo de Especialistas do Programa das Nações Unidas para Administração Pública e Finanças, a ONU estabeleceu uma série de princípios diretores para a ética no serviço público. O documento privilegia sobretudo a ideia de profissionalização do serviço público e sugere que o comportamento ético do servidor aumenta proporcionalmente, à medida que também aumenta o profissionalismo. Isso se reflete imediatamente nos princípios propostos, que visam sempre à incorporação dos valores éticos ao comportamento profissional do servidor público. Destaquemos alguns dos princípios propostos pela ONU:
             </p>

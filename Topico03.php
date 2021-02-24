@@ -18,11 +18,9 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 03 - Antecedentes da ética no serviço público
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 3 - Antecedentes da ética no serviço público
             </h2>
-
-            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  - Expor a importância dos códigos de ética no serviço público.
             <p>- Apresentar um histórico do surgimento e a necessidade dos códigos e institutos voltados para o fomento da ética no serviço público.</p>

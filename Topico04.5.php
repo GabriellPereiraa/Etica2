@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 04.5 - Padrão britânico de conduta na vida pública
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 4.5 - Padrão britânico de conduta na vida pública
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
             
             <p class="Texto">
             Buscaremos expor, agora, um breve apanhado sobre a experiência britânica. No ano de 1995, no mês de maio, deu-se a criação e a elaboração de um código de conduta, que incorporou os assim chamados “sete princípios da vida pública” propugnados pelo então primeiro-ministro o juiz Michael Patrick Nolan (1928-2007), conhecido como Lord Nolan. Ele presidiu o Comitê sobre normas de conduta na vida pública no Reino Unido. Tal código, por meio de uma formação continuada e da sujeição ao seu cumprimento a uma análise externa, constituiu-se um grande e importante avanço nos princípios democráticos que deveriam reger o Instituto e garantiu que fatos tão indesejáveis de corrupção financeira e política ocorridos no passado não tivessem oportunidade de se repetir.

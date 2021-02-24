@@ -18,11 +18,9 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 02 - Alguns princípios
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 2 - Alguns princípios
             </h2>
-
-            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Demonstrar a exigência da sociedade por um agir ético, em particular, para os servidores públicos.</p>
             

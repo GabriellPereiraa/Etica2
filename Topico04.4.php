@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 04.4 - Governança Corporativa
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 4.4 - Governança Corporativa
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
 
             <p class="Texto">
                 Os códigos de Bom Governo surgiram a partir do conceito de Corporate Governance – Governança Corporativa, que tem como objetivo fundamental melhorar o funcionamento das empresas, tanto interna quanto externamente, buscando eficácia, transparência e responsabilidade perante a sociedade e seus integrantes. O conceito de Governança Corporativa está visivelmente dominado pelas experiências vividas pelos contextos Americanos e Ingleses, concentrando-se, de modo particular, nas empresas que atuam nas bolsas de valores.

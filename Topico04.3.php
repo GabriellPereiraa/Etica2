@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 04.3 - Ética nas Organizações
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 4.3 - Ética nas Organizações
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
 
             <p class="Texto">
                 A ética normativa tem como função precípua fazer recomendações e formular normas e prescrições morais a partir dos conceitos de liberdade, necessidade, valor, consciência e sociabilidade. Nessa perspectiva, a ética transcende a esfera filosófica do aspecto subjetivo do comportamento humano e se utiliza do conhecimento objetivo das estruturas sociais, das relações e das instituições para explicar a inter-relação entre moral e sociedade. Os atos morais são condicionados pela sociedade, mas o comportamento moral requer que o indivíduo se conscientize dos fatores sociais que o influenciam para que, assim, possa ser responsabilizado pelas próprias decisões.
