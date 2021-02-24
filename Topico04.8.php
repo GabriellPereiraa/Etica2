@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 04.8 - Exemplos de códigos de ética
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 4.8 - Exemplos de códigos de ética
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
             <p class="Texto">
                 Indicamos, a seguir, um modelo de código de ética. Para tanto, destacamos o Código de Ética Profissional do Servidor Público Federal (1994) e o Sistema de Gestão de Ética do Poder Executivo Federal (2008). 
             </p>

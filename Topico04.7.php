@@ -18,8 +18,8 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 04.7 - Modelos éticos na América Latina
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 4.7 - Modelos éticos na América Latina
             </h2>
 
             <hr class="hr4Cinza">
