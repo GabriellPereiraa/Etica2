@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 04.6 - Outras experiências estrangeiras
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
             <p class="Texto">
                 Em maio de 1997, em documento preparado pela Secretaria para o 13º encontro do Grupo de Especialistas do Programa das Nações Unidas para Administração Pública e Finanças, a ONU estabeleceu uma série de princípios diretores para a ética no serviço público. O documento privilegia sobretudo a ideia de profissionalização do serviço público e sugere que o comportamento ético do servidor aumenta proporcionalmente, à medida que também aumenta o profissionalismo. Isso se reflete imediatamente nos princípios propostos, que visam sempre à incorporação dos valores éticos ao comportamento profissional do servidor público. Destaquemos alguns dos princípios propostos pela ONU:
             </p>
@@ -30,7 +30,7 @@ include('layout/header.php');
             <section id="EducacaoEtica">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingZero">
+                        <div class="card-item" id="headingZero">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse0" aria-expanded="false" aria-controls="collapse0">
                                     <h3>Educação ética</h3>
@@ -47,12 +47,12 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+         
             
             <section id="EspiritoPublico">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
                                     <h3>Espírito público</h3>
@@ -69,12 +69,12 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+     
 
             <section id="Valorizar">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingTwo">
+                        <div class="card-item" id="headingTwo">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     <h3>Valorizar os cidadãos como seres humanos</h3>
@@ -91,12 +91,12 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+           
 
             <section id="Liderança">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingThree">
+                        <div class="card-item" id="headingThree">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     <h3>Liderança</h3>
@@ -113,14 +113,14 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+         
             <hr>
             <h4 class="font-bold AzulEstado"><i class="fas fa-angle-double-right"></i> 04.6.1 - O caso australiano</h4>
             <hr class="hrAEstado">
             <p class="Texto">
                 Os servidores públicos australianos contam com uma série de documentos oficiais que estabelecem os padrões de conduta ética no serviço. Os valores éticos fundamentais que devem ser afirmados pelos servidores públicos australianos são: pronto atendimento às necessidades do governo; concentração nos resultados; mérito como base para o emprego; altos padrões de probidade, integridade e conduta; forte compromisso com a responsabilidade e a prestação de contas; melhoria contínua das equipes e dos indivíduos.
             </p>
-            <br>
+           
             <hr>
             <h4 class="font-bold AzulEstado"><i class="fas fa-angle-double-right"></i> 04.6.2 - O caso holandês</h4>
             <hr class="hrAEstado">

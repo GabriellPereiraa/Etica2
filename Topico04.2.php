@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 04.2 - Ferramentas estratégicas
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto">
                 Como ferramenta estratégica, o Conselho da OCDE aprovou seis medidas para a condução da ética no serviço público. São elas:
@@ -30,36 +30,37 @@ include('layout/header.php');
             <ul class="fa-ul">
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="fas fa-check" style="color:#FC6B30"></i></span> Desenvolver e inspecionar regularmente políticas, procedimentos, práticas e instituições que exerçam alguma influência sobre a conduta no serviço público.
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30"></i></span> Desenvolver e inspecionar regularmente políticas, procedimentos, práticas e instituições que exerçam alguma influência sobre a conduta no serviço público.
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="fas fa-check" style="color:#FC6B30"></i></span> Fomentar a ação governamental para manter altos padrões de conduta e enfrentar a corrupção no setor público.
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30"></i></span> Fomentar a ação governamental para manter altos padrões de conduta e enfrentar a corrupção no setor público.
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="fas fa-check" style="color:#FC6B30"></i></span> Incorporar o aspecto ético aos marcos de referências administrativas para garantir práticas de administração congruentes com os valores e princípios do serviço público.
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30"></i></span> Incorporar o aspecto ético aos marcos de referências administrativas para garantir práticas de administração congruentes com os valores e princípios do serviço público.
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="fas fa-check" style="color:#FC6B30"></i></span> Combinar, criteriosamente, os aspectos ideais e regulamentares dos sistemas de condução da ética.
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30"></i></span> Combinar, criteriosamente, os aspectos ideais e regulamentares dos sistemas de condução da ética.
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="fas fa-check" style="color:#FC6B30"></i></span> Avaliar os efeitos das reformas da administração pública na conduta ética do serviço civil.
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30"></i></span> Avaliar os efeitos das reformas da administração pública na conduta ética do serviço civil.
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="fas fa-check" style="color:#FC6B30"></i></span> Utilizar os princípios de condução da ética no serviço público para garantir altos padrões de conduta.
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30"></i></span> Utilizar os princípios de condução da ética no serviço público para garantir altos padrões de conduta.
                     </p>
                 </li>   
             </ul>
-            <br>
+            <hr>
+            
             <p class="Texto">
                 Afirmamos, portanto, que “uma vez que as relações de governos se formalizam por meio de acordos e convenções, e são os servidores públicos os agentes desse processo, a necessidade de assegurar um padrão de conduta ético para o servidor torna-se condição para o desenvolvimento”.
             </p>

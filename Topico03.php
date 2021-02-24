@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 03 - Antecedentes da ética no serviço público
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  - Expor a importância dos códigos de ética no serviço público.
             <p>- Apresentar um histórico do surgimento e a necessidade dos códigos e institutos voltados para o fomento da ética no serviço público.</p>
@@ -32,12 +32,12 @@ include('layout/header.php');
                 Pode-se afirmar que ética pública já existe desde a antiguidade, com o intuito de formar a conduta das pessoas de governo. Ela estava vinculada aos assuntos de governo, tanto na formação dos governantes quanto na prática política, de modo a fomentar as ações acompanhadas de valores que pudessem beneficiar os governados.
             </p>
             <p class="Texto">
-                Apesar de um certo descuido a que tem sido submetido nas últimas décadas, o tema da ética pública tem reaparecido com força e se tornado um tema de fundamental análise entre os principais estudiosos de governo e administração pública. Se pudermos delimitar um marco histórico, podemos dizer que o compromisso da ética no âmbito público recobra importância por volta dos anos setenta, nos Estados Unidos, na raiz do famoso e, possivelmente, o maior escândalo político americano conhecido como “Watergate”, que, por tamanha crise institucional, terminou com a renúncia do Presidente Richard Nixon. Esse fato demonstrou ao público que alguns governantes e funcionários praticavam condutas imorais e antiéticas. Foi, então, que se criaram mecanismos para o fomento da ética no setor público como, por exemplo, a <span style="color:#FC6B30">OGE (</span><i>Office of Government Ethics</i> – Em tradução aproximada, algo como “Escritório de Ética no Governo” <span style="color:#FC6B30">)</span>.
+                Apesar de um certo descuido a que tem sido submetido nas últimas décadas, o tema da ética pública tem reaparecido com força e se tornado um tema de fundamental análise entre os principais estudiosos de governo e administração pública. Se pudermos delimitar um marco histórico, podemos dizer que o compromisso da ética no âmbito público recobra importância por volta dos anos setenta, nos Estados Unidos, na raiz do famoso e, possivelmente, o maior escândalo político americano conhecido como “Watergate”, que, por tamanha crise institucional, terminou com a renúncia do Presidente Richard Nixon. Esse fato demonstrou ao público que alguns governantes e funcionários praticavam condutas imorais e antiéticas. Foi, então, que se criaram mecanismos para o fomento da ética no setor público como, por exemplo, a <span style="color:#FC6B30">OGE </span>(Office of Government Ethics – Em tradução aproximada, algo como “Escritório de Ética no Governo”).
             </p>
 
-            <div>
-                <p class="CuriosidadeTitulo">Dica</p>
-                <p class="CuriosidadeTexto">Para maiores informações, sugerimos o site deste organismo: <a href="https://www.oge.gov">https://www.oge.gov</a>, que foi instituída pela lei de Ética no Governo (Ethics in Government Act., EGA), em 1978.</p>
+            <div class="Dica">
+                <p class="CuriosidadeTitulo"> Dica</p>
+                <p class="CuriosidadeTexto">Para maiores informações, sugerimos o site deste organismo: <a href="https://www.oge.gov" target="_blank">https://www.oge.gov</a>, que foi instituída pela lei de Ética no Governo (Ethics in Government Act., EGA), em 1978.</p>
             </div>
             <br>
 
@@ -69,17 +69,17 @@ include('layout/header.php');
             <ul class="fa-ul">
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="fas fa-external-link-square-alt" style="color: #FC6B30;"></i></span> Enunciar os valores que presidem a atividade de uma instituição (no nosso caso, da coisa pública);
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color: #FC6B30;"></i></span> Enunciar os valores que presidem a atividade de uma instituição (no nosso caso, da coisa pública);
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="fas fa-external-link-square-alt" style="color: #FC6B30;"></i></span> Determinar o grau de responsabilidade que o cumprimento dessesvalores representa para os servidores públicos;
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color: #FC6B30;"></i></span> Determinar o grau de responsabilidade que o cumprimento dessesvalores representa para os servidores públicos;
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="fas fa-external-link-square-alt" style="color: #FC6B30;"></i></span>Definir os meios para alertar a administração pública e os cidadãos sobre o surgimento de condutas não éticas, a fim de poder corrigilas.
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color: #FC6B30;"></i></span>Definir os meios para alertar a administração pública e os cidadãos sobre o surgimento de condutas não éticas, a fim de poder corrigilas.
                     </p>
                 </li>
             </ul>
@@ -92,13 +92,13 @@ include('layout/header.php');
                 De forma que a ética tem sua importância por si mesma, não está situada no foco de atenção dos investigadores e estudiosos dos assuntos públicos, por conta de se partir da crença de que aqueles que ocupam cargos públicos ou algum tipo de representação popular são pessoas respeitáveis per se, ou seja, que a ética seja algo inerente a esses agentes públicos.
             </p>
             <p class="Texto">
-                Apesar disso, no ano de 1976, um grupo de trabalho sobre ética que pertencia à <span style="color:#FC6B30;">Associação Internacional de Escolas e Institutos de Administração Pública (</span>IASIA - International Association of Schools and Institutes of Administration <a href="https://iasia.iias-iisa.org/">iasia.iias-iisa.org</a>.<span style="color:#FC6B30;">)</span>, organismo que reúne diretores de escolas e institutos de administração pública das mais diversas partes do mundo, acordou entre si solicitar a vários centros acadêmicos que incluíssem a ética como assinatura essencial para a formação dos gestores públicos. No ano de 1979, essa mesma associação concluiu um estudo que visava conhecer o que estava sendo realizado nas variadas instituições responsáveis pela formação e pelo aperfeiçoamento de funcionários públicos. Um ano depois, os resultados desse estudo indicaram que a ética e os valores, como área de conhecimento, não estavam inseridos nas escolas e institutos de administração pública. Em seguida, em 1981, a IASIA convocou uma reunião para tratar amplamente do comportamento ético e da responsabilidade no serviço público. Nessa reunião, ficou acertado que seriam desenvolvidos programas de ética para funcionários públicos e se insistiu na necessidade de reforçar os códigos de éticas e as medidas anticorrupção.
+                Apesar disso, no ano de 1976, um grupo de trabalho sobre ética que pertencia à <span style="color:#FC6B30;">Associação Internacional de Escolas e Institutos de Administração Pública</span>(IASIA - International Association of Schools and Institutes of Administration <a href="https://iasia.iias-iisa.org/" target="_blank">iasia.iias-iisa.org</a>), organismo que reúne diretores de escolas e institutos de administração pública das mais diversas partes do mundo, acordou entre si solicitar a vários centros acadêmicos que incluíssem a ética como assinatura essencial para a formação dos gestores públicos. No ano de 1979, essa mesma associação concluiu um estudo que visava conhecer o que estava sendo realizado nas variadas instituições responsáveis pela formação e pelo aperfeiçoamento de funcionários públicos. Um ano depois, os resultados desse estudo indicaram que a ética e os valores, como área de conhecimento, não estavam inseridos nas escolas e institutos de administração pública. Em seguida, em 1981, a IASIA convocou uma reunião para tratar amplamente do comportamento ético e da responsabilidade no serviço público. Nessa reunião, ficou acertado que seriam desenvolvidos programas de ética para funcionários públicos e se insistiu na necessidade de reforçar os códigos de éticas e as medidas anticorrupção.
             </p>
             <p class="Texto">
-                Assim, no ano de 1983, foi celebrado em Washington (EUA), o primeiro Congresso Internacional de Ética Pública, organizado pelo Escritório de Ética Pública e pela então existente <span style="color:#FC6B30;">Agência de Informação dos Estados Unidos (</span> United States Information Agency – USIA<span style="color:#FC6B30;">)</span> , que, em 1999, foi reestruturada e passou a ser chamada de Under Secretary for Public Diplomacy and Public Affairs. Esse congresso foi o primeiro de alcance mundial, reunindo mais de oitenta participantes de cinquenta e cinco países dos cinco continentes. 
+                Assim, no ano de 1983, foi celebrado em Washington (EUA), o primeiro Congresso Internacional de Ética Pública, organizado pelo Escritório de Ética Pública e pela então existente <span style="color:#FC6B30;">Agência de Informação dos Estados Unidos </span>(United States Information Agency – USIA), que, em 1999, foi reestruturada e passou a ser chamada de Under Secretary for Public Diplomacy and Public Affairs. Esse congresso foi o primeiro de alcance mundial, reunindo mais de oitenta participantes de cinquenta e cinco países dos cinco continentes. 
             </p>
             <p class="Texto">
-                Mais adiante, em 1987, também nos Estados Unidos, a <span style="color: #FC6B30;">Associação Nacional de Escolas de Administração Pública (</span>NASPAA – National Association of Schools of Public Affairs and Administration determinou que os programas de formação das escolas e institutos de administração pública promovessem os valores, os conhecimentos e as capacidades dos servidores públicos em prol de uma atenção administrativa ética e eficaz. Um ano depois, os diretores de um grupo de trabalho da NASPAA, dedicado ao ensino de ética na administração pública, elaboraram um informativo em que foi solicitado que os programas universitários de preparação para a função pública incluíssem, para todos os alunos, conteúdos de ética e que a ética pública fosse uma disciplina obrigatória e autônoma que se projetasse, além disso, sobre outras matérias também obrigatórias. 
+                Mais adiante, em 1987, também nos Estados Unidos, a <span style="color: #FC6B30;">Associação Nacional de Escolas de Administração Pública </span>(NASPAA – National Association of Schools of Public Affairs and Administration) determinou que os programas de formação das escolas e institutos de administração pública promovessem os valores, os conhecimentos e as capacidades dos servidores públicos em prol de uma atenção administrativa ética e eficaz. Um ano depois, os diretores de um grupo de trabalho da NASPAA, dedicado ao ensino de ética na administração pública, elaboraram um informativo em que foi solicitado que os programas universitários de preparação para a função pública incluíssem, para todos os alunos, conteúdos de ética e que a ética pública fosse uma disciplina obrigatória e autônoma que se projetasse, além disso, sobre outras matérias também obrigatórias. 
             </p>
             <p class="Texto">
                 A partir dessas e de outras iniciativas, diversos Estados começaram a criar seus códigos de condutas, normas éticas e mecanismos de controle. Ao final dos anos noventa, o escritório de gestão pública da OCDE (Organisation for Economic Cooperation and Development – Organização para a Cooperação e Desenvolvimento Econômico) elaborou um estudo sobre a situação ética em alguns países. A informação recebida permitiu elaborar um desenho de uma “estrutura ética”, na qual se propôs um modelo para a gestão pública.

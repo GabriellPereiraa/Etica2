@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 04.5 - Padrão britânico de conduta na vida pública
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
             
             <p class="Texto">
             Buscaremos expor, agora, um breve apanhado sobre a experiência britânica. No ano de 1995, no mês de maio, deu-se a criação e a elaboração de um código de conduta, que incorporou os assim chamados “sete princípios da vida pública” propugnados pelo então primeiro-ministro o juiz Michael Patrick Nolan (1928-2007), conhecido como Lord Nolan. Ele presidiu o Comitê sobre normas de conduta na vida pública no Reino Unido. Tal código, por meio de uma formação continuada e da sujeição ao seu cumprimento a uma análise externa, constituiu-se um grande e importante avanço nos princípios democráticos que deveriam reger o Instituto e garantiu que fatos tão indesejáveis de corrupção financeira e política ocorridos no passado não tivessem oportunidade de se repetir.
@@ -80,7 +80,7 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+           
 
             <section id="Integridade">
                 <div class="accordion" id="accordionExample">
@@ -102,8 +102,7 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
-
+         
             <section id="Objetividade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
@@ -124,7 +123,7 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+          
 
             <section id="Accountability">
                 <div class="accordion" id="accordionExample">
@@ -146,7 +145,7 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+           
 
             <section id="Transparência">
                 <div class="accordion" id="accordionExample">
@@ -168,7 +167,7 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+          
 
             <section id="Honestidade">
                 <div class="accordion" id="accordionExample">
@@ -190,7 +189,7 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+         
 
             <section id="Liderança">
                 <div class="accordion" id="accordionExample">
@@ -212,7 +211,7 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+            <hr>
 
             <p class="Texto">
             Esses princípios aplicam-se a todos os aspectos da vida pública. A Comissão relacionou-os para o uso de todos que de alguma forma prestem serviço ao público. Todas essas ideias representam um esforço no sentido de transportar valores e princípios éticos para o nível das instituições nacionais. Estas não podem admitir interferências privadas ilegítimas e nem tampouco interesses corporativos sob máscaras sociais. Um deputado, um administrador urbano, um médico ou um carteiro devem estar em condições de trabalhar beneficiando o cidadão, que os mantém com os seus impostos. 
@@ -224,17 +223,17 @@ include('layout/header.php');
             <ul class="fa-ul">
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="far fa-caret-square-right" style="color:#FC6B30;"></i></span> fazer o registro de interesses dos membros do Parlamento;
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30;"></i></span> fazer o registro de interesses dos membros do Parlamento;
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="far fa-caret-square-right" style="color:#FC6B30;"></i></span> conselhar e orientar os deputados sobre o Código de Conduta;
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30;"></i></span> conselhar e orientar os deputados sobre o Código de Conduta;
                     </p>
                 </li>
                 <li>
                     <p class="Texto">
-                        <span class="fa-li"><i class="far fa-caret-square-right" style="color:#FC6B30;"></i></span> investigar e relatar ações de má conduta.
+                        <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30;"></i></span> investigar e relatar ações de má conduta.
                     </p>
                 </li>
             </ul>

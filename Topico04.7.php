@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 04.7 - Modelos éticos na América Latina
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
             <p class="Texto">
             O problema da corrupção na América Latina tem se acentuado de uma maneira impressionante nas últimas décadas. Essa situação tem motivado uma série de iniciativas para conter esse problema. Uma dessas tentativas tem sido buscar fomentar a ética pública. Destacaremos, a seguir, dois projetos, a título de exemplo. Tais projetos merecem relevo dada a magnitude de seu alcance e também a sua capacidade de inovação.
             </p>
@@ -31,7 +31,7 @@ include('layout/header.php');
             <h4 class="font-bold AzulEstado"><i class="fas fa-angle-double-right"></i> 04.7.1 - Rede de Instituições de Combate à Corrupção e Resgate da Ética Pública</h4>
             <hr class="hrAEstado">
             <p class="Texto">
-                Nos dias 15 e 16 de junho de 1998, o <span style="color:#FC6B30;">Centro Latino-americano de Administração para o Desenvolvimento (</span>CLAD – Centro Latinoamericano de Administración para el Desarrollo<span style="color:#FC6B30;">)</span>, com o apoio da <span style="color:#FC6B30;">Agência Espanhola de Cooperação Internacional para o Desenvolvimento (</span>(AECID - Agencia Española de Cooperación Internacional para el Desarrollo<span style="color:#FC6B30;">)</span>, realizou em Santa Cruz de la Sierra, na Bolívia, um Fórum Ibero-americano com o propósito de: examinar as formas mais proeminentes e as consequências sociais da corrupção, e de explorar as formas e métodos que atualmente têm sido adotados no mundo para combatê-la e, dessa maneira, buscar reduzir sua presença e atividade na região. Um dos resultados desse fórum foi a criação da Rede de Instituições de Combate à Corrupção e Resgate da Ética Pública
+                Nos dias 15 e 16 de junho de 1998, o <span style="color:#FC6B30;">Centro Latino-americano de Administração para o Desenvolvimento </span>(CLAD – Centro Latinoamericano de Administración para el Desarrollo), com o apoio da <span style="color:#FC6B30;">Agência Espanhola de Cooperação Internacional para o Desenvolvimento </span>(AECID - Agencia Española de Cooperación Internacional para el Desarrollo), realizou em Santa Cruz de la Sierra, na Bolívia, um Fórum Ibero-americano com o propósito de: examinar as formas mais proeminentes e as consequências sociais da corrupção, e de explorar as formas e métodos que atualmente têm sido adotados no mundo para combatê-la e, dessa maneira, buscar reduzir sua presença e atividade na região. Um dos resultados desse fórum foi a criação da Rede de Instituições de Combate à Corrupção e Resgate da Ética Pública
             </p>
             <p class="Texto">
                 – RICOREP.
@@ -56,7 +56,7 @@ include('layout/header.php');
             <section id="Legalidade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
                                     <h3>Legalidade</h3>
@@ -73,12 +73,12 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+           
 
             <section id="Impessoalidade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingTwo">
+                        <div class="card-item" id="headingTwo">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     <h3>Impessoalidade</h3>
@@ -95,12 +95,11 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
-
+       
             <section id="Moralidade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingThree">
+                        <div class="card-item" id="headingThree">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     <h3>Moralidade</h3>
@@ -117,14 +116,14 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+    
 
             <section id="Publicidade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingFour">
+                        <div class="card-item" id="headingFour">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                <button class="btn btn-success btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                     <h3>Publicidade</h3>
                                 </button>
                             </h2>
@@ -139,14 +138,14 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
-            <br>
+      
 
             <section id="Eficiência">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingFive">
+                        <div class="card-item" id="headingFive">
                             <h2 class="mb-0">
-                                <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                <button class="btn btn-success btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
                                     <h3>Eficiência</h3>
                                 </button>
                             </h2>
@@ -161,10 +160,11 @@ include('layout/header.php');
                     </div>
                 </div>
             </section>
+            <hr>
 
             </div> <!-- CLASS PAGE TITLE FIM -->
             
-            <br><br>
+            <br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
                     <a href="Topico04.6.php" class="btn btn-outline-success btn-sm">Página Anterior</a>

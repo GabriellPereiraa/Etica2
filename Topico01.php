@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 01 - Ética e serviço público
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar a importância do debate da ética aplicada ao serviço público.</p>
             
@@ -33,7 +33,7 @@ include('layout/header.php');
             </p>
 
             <p class="Texto">
-                As considerações éticas na função pública têm adquirido uma importância cada vez mais crescente, pois não se pode esquecer que o ofício público supõe como tarefa o serviço aos outros. Assim, a Ética Pública, para fins de uma primeira aproximação, estuda o comportamento dos funcionários ordenados à finalidade do serviço público que lhe é inerente. Pode-se, ainda, asseverar que é a ciência que trata da moralidade das ações humanas enquanto realizadas por servidores públicos, de modo que a chamada Ética Pública, assim como a Ética em si mesma, é também uma ciência prática. Ciência porque o estudo da ética para a administração pública inclui princípios gerais e universais sobre a moralidade dos atos humanos realizados pelo funcionário público ou pelo gestor público. Com base nisso, também se considera prática porque ela se ocupa, fundamentalmente, da livre conduta do indivíduo que desempenha alguma função pública, proporcionando-lhe as normas e critérios necessários para o bem agir. Resumindo, podemos dizer que a ideia de serviço à coletividade, à sociedade, consequentemente, aos outros, é o eixo central da ética pública. Dessa forma, também o é a conservação e a promoção do bem comum.
+                As considerações éticas na função pública têm adquirido uma importância cada vez mais crescente, pois não se pode esquecer que o ofício público supõe como tarefa o serviço aos outros. <span class="highlight highlighted"> Assim, a Ética Pública, para fins de uma primeira aproximação, estuda o comportamento dos funcionários ordenados à finalidade do serviço público que lhe é inerente.</span> Pode-se, ainda, asseverar que é a ciência que trata da moralidade das ações humanas enquanto realizadas por servidores públicos, de modo que a chamada Ética Pública, assim como a Ética em si mesma, é também uma ciência prática. Ciência porque o estudo da ética para a administração pública inclui princípios gerais e universais sobre a moralidade dos atos humanos realizados pelo funcionário público ou pelo gestor público. Com base nisso, também se considera prática porque ela se ocupa, fundamentalmente, da livre conduta do indivíduo que desempenha alguma função pública, proporcionando-lhe as normas e critérios necessários para o bem agir. Resumindo, podemos dizer que a ideia de serviço à coletividade, à sociedade, consequentemente, aos outros, é o eixo central da ética pública. Dessa forma, também o é a conservação e a promoção do bem comum.
             </p>
 
             <p class="Texto">
@@ -47,6 +47,7 @@ include('layout/header.php');
                 </blockquote>
             </div>
             <br>
+            <hr>
 
             <p class="Texto">
             Uma Administração que se movimente por essa perspectiva, precisa ser uma administração composta por pessoas que estejam convencidas de que a qualidade dos seus serviços ofertados tem muito a ver com um trabalho bem executado e que é importante ir ao encontro dos legítimos interesses da população nos múltiplos e variados expedientes, interesses e necessidades. Nesse sentido, o servidor público tem como responsabilidade assumir um protagonismo, de se sentir responsável, e independentemente da função que ora ocupa, pela dinâmica administrativa, colocando à sua frente os interesses da coletividade.

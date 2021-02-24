@@ -18,23 +18,23 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 04.8 - Exemplos de códigos de ética
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
             <p class="Texto">
                 Indicamos, a seguir, um modelo de código de ética. Para tanto, destacamos o Código de Ética Profissional do Servidor Público Federal (1994) e o Sistema de Gestão de Ética do Poder Executivo Federal (2008). 
             </p>
             <ul class="fa-ul">
                 <li>
-                    <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30;"></i></span> Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal: <a href="https://goo.gl/WIopjK">https://goo.gl/WIopjK</a>
+                    <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30;"></i></span> Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal: <a href="https://goo.gl/WIopjK" target="_blank" >https://goo.gl/WIopjK</a>
                 </li>
                 <li>
-                    <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30;"></i></span> DECRETO Nº 1.171, DE 22 DE JUNHO DE 1994: <a href="https://goo.gl/lKheCj">https://goo.gl/lKheCj</a>
+                    <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30;"></i></span> DECRETO Nº 1.171, DE 22 DE JUNHO DE 1994: <a href="https://goo.gl/lKheCj" target="_blank" >https://goo.gl/lKheCj</a>
                 </li>
                 <li>
-                    <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30;"></i></span> DECRETO Nº 6.029, DE 1º DE FEVEREIRO DE 2007: <a href="https://goo.gl/ZJ8nMT">https://goo.gl/ZJ8nMTj</a>
+                    <span class="fa-li"><i class="fas fa-arrow-right" style="color:#FC6B30;"></i></span> DECRETO Nº 6.029, DE 1º DE FEVEREIRO DE 2007: <a href="https://goo.gl/ZJ8nMT" target="_blank" >https://goo.gl/ZJ8nMTj</a>
                 </li>
             </ul>
 
