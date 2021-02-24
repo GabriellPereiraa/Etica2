@@ -4,9 +4,11 @@
             <div class="sidebar-wrapper active ps ps--active-y">
                 <div class="m-4">
                     <a href="index.php">
-                        <img class="img-fluid" src="http://ava.egp.ce.gov.br/2018/desv/logo/egp.png" alt="Logo EGPCE" srcset="">
+                        <img class="img-fluid" src="https://atilasilvalima.a2hosted.com/projects/EGPCE/Cedis/cdn/imagens/egpce.png" alt="Logo EGPCE" srcset="">
                     </a>
                 </div>
+                <br>
+
                 <div class="sidebar-menu ">
                     <ul class="menu">
                         <!--  <li class="sidebar-item">
@@ -48,7 +50,7 @@
                                 <li class="sidebar-item">
                                     <a href="Topico04.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
-                                        <span>4.1 - Modelos de ética multinacionais: A OCDE</span>
+                                        <span>4.1 - Ética multinacionais: A OCDE</span>
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
@@ -76,7 +78,7 @@
                                     </a>
                                 </li>
                                 <li class="sidebar-item">
-                                    <a href="" class="sidebar-sub">
+                                    <a href="Topico04.6.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>4.6 - Outras experiências estrangeiras</span>
                                     </a>
